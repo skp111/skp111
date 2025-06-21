@@ -1,1 +1,1 @@
-Here is the program code for TIC-TAC-TOE
+A highly motivated and result-oriented B.Tech graduate with a strong foundation in computer science fundamentals, including programming (Python, Java and C), Data structures and Algorithms, and machine learning. Possessing a strong analytical and problem-solving mindset, I am adept at data analysis, model development, and visualization. Seeking a challenging role in a dynamic environment where I can contribute my skills and passion for technology to solve real-world problems and drive innovation.
